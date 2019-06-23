@@ -20,7 +20,7 @@ public class SpellChecker {
 	}
 	
 	public static void main(String[] args) {
-		Lexicon lexicon = new KoreanDictionary();
+		Lexicon lexicon = new KoreanDictionary();    
 		//Lexicon lexicon = new EglishDictionary();
 		
 		SpellChecker spellChecker = new SpellChecker(() -> lexicon);
