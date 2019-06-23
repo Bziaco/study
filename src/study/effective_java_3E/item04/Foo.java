@@ -6,7 +6,7 @@ public class Foo {
 		
 		//private 생성자를 만들기 전 객체가 만들어진다.
 		//FooBehavior객체에 private 생성자를 생성하면 객체가 안만들어진다.
-		FooBank 저금 = new FooBank();
+		//FooBank 저금 = new FooBank();
 		
 		
 		int 내재산 = 10000000;
